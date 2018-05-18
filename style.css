@@ -40,6 +40,8 @@ a{
 }
 .main img{
 	width: 300px;
+	margin: 0 auto;
+	padding-left: 100px;
 }
 .center{
 	max-width: 600px;
@@ -56,6 +58,7 @@ a{
 	margin-right: auto;
 	margin-left: auto;
 	font-size: 16px;
+	padding-left: 100px;
 	
 }
 .button{
